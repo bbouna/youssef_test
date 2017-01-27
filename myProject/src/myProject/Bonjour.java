@@ -3,8 +3,9 @@ package myProject;
 public class Bonjour {
 	int b;
 	
-public int calculer(){
-	return 5;
+public int calculer(int a, int b){
+	
+	return a+b;
 	
 }
 }
