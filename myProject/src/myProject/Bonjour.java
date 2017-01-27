@@ -8,6 +8,6 @@ System.out.println("Hello Youssef ");
 }
 public void afficher(){
 	System.out.println("ekht hal chaghli");
-	
+	 
 }
 }
