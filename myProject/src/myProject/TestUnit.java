@@ -9,6 +9,5 @@ public static void main (String args[]){
 public void afficher(){
 	
 	for(int i=0;i<10;i++)System.out.println("bonjour");
-	
 }
 }
