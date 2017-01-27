@@ -1,5 +1,7 @@
 package myProject;
 
 public class Bonjour {
-int a;
+	int a;
+	int b;
+
 }
