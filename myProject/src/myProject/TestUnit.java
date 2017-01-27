@@ -6,4 +6,8 @@ public static void main (String args[]){
 	//Hello 
 	System.out.println("Sttt");
 }
+public void afficher(){
+	
+	for(int i=0;i<10;i++)System.out.println("bonjour");
+}
 }
